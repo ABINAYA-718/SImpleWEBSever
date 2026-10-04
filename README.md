@@ -74,7 +74,7 @@ def build_page():
 </head>
 <body>
   <h1>Laptop Device Specifications</h1>
-  <h3>Name: {NAME} | Register No: {REG_NO}</h3>
+  <h3>Name: ABINAYA I | Register No: 26018718</h3>
   <table>{rows}</table>
 </body>
 </html>"""
