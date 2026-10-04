@@ -37,7 +37,7 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-```
+
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import platform
 import socket
@@ -107,7 +107,7 @@ httpd.serve_forever()
         
 
 ## OUTPUT:
-![alt text](output.png):
+![alt text](output.png)
 ![alt text](output1.png)
 ![alt text](terminalcode.png)
 
